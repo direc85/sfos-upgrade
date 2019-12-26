@@ -2,7 +2,7 @@ Name:          sfos-upgrade
 Summary:       Scripts for safe and automated upgrading of SailfishOS with logging
 Version:       3.6.0
 # Stop using a release number (i.e. leave this field empty) since v3.6.0, 
-# because of fully switching to a three field semantic versioning scheme. 
+# because of fully switching to a three field semantic versioning scheme for regular releases. 
 # Hence changes to the spec file are now reflected in the bug fix release number (third field),
 # but the "Release:" field may still be used for testing purposes (e.g. set to "-test1").
 Release:       -test1
